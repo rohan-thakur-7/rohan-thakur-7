@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @rohan-thakur-7
--    Beginner
 -    Student
 -    B.Tech CSE
+-    Java, C++
+-    Html, CSS, JavaScript
+-    SQL, MySQL
 
 
 
