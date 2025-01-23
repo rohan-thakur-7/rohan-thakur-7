@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @rohan-thakur-7
--    Student
--    B.Tech CSE
--    Java, C++
--    Html, CSS, JavaScript
--    SQL, MySQL
+# Rohan Thakur
 
+Hi! I'm Rohan Thakur, a passionate software developer with a strong foundation in programming languages and web development frameworks. I'm skilled in building user-friendly and efficient web applications.
 
+## Skills
 
-<!---
-rohan-thakur-7/rohan-thakur-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Programming Languages:** Java, C++, JavaScript (HTML, CSS)
+* **Web Development Frameworks:** React, Next.js, Tailwind CSS
+* **Backend Development:** Node.js, TypeScript
+* **Databases:** SQL, MySQL
